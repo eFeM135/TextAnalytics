@@ -1,4 +1,4 @@
-### Refence a related issue
+### Reference a related issue
 
 This pull request solves #2
 
